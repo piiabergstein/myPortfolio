@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Italiana&display=swap');
+
+
+body {
+    background-color: rgb(234, 239, 239);
+    font-family: "acme", sans-serif;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; 
+    object-fit: cover;
+    ;
+}
+
+h3 {
+    font-family: "Italiana", sans-serif;
+    color: #444343;
+    text-align: center;
+}
+
+#janedone {
+    color: #DA7B7B;
+    text-align:center;
+    font-size: 32px;
+    
+
+}
+
+ul{
+    padding: 0;
+    width: 300px;
+   list-style: none;
+    text-align: center;
+    margin: 20px auto;
+}
+
+table {
+    border: 1px solid #444343;
+    background-color: #DA7B7B;
+    width: 600px;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid #444343;
+    text-align: center;
+}
+#figma{
+    color: aqua;
+}
+#html {
+    color: blue;
+}
+p {
+    text-align: center;
+}
+
+a{
+    display: block;
+    width:200px;
+    text-decoration: none;
+    margin:20px auto;
+    text-align:center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    width: 200px;
+    height: 10px;
+    background-color: #444343;
+    border-radius: 7px;
+}
